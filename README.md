@@ -5,4 +5,4 @@ R samples
 
 running example
 
-``R < file.R --no-save``
+``$R < file.R --no-save``
